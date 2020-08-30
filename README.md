@@ -24,7 +24,6 @@ Trouble shooting this question was done using **debugging tools** available in `
 
 Be sure, when running Question_2.py from the command line to give as the second argument i.e. *`python "Question_2.py" "Question 2 Images"`*
 
-** Linet Nabwire © 2020 ** 
+> *Linet Nabwire © 2020* 
 
 
-> Written with [StackEdit](https://stackedit.io/).
