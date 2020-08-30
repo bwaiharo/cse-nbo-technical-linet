@@ -36,5 +36,5 @@ if __name__ == '__main__':
     iterate_folder(directory, directory_in_str)
     create_csv(directory_in_str, rejected_img)
     print(rejected_img)
+   
     
-    # this is my change made
